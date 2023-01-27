@@ -1,3 +1,3 @@
 # Barberia-alura
 
-Este es un proyecto realizado en el curso de One + Alura de principiante de programación.
+Este es un proyecto realizado en clases de un curso llamado principiante de programación de Oracle + Alura.
